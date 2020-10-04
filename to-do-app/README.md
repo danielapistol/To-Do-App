@@ -6,5 +6,7 @@ To do application in Django.
 -Delete task
 
 Still to add: 
--Calendar, tasks added per day
-- Multi user to do app 
+
+Calendar, tasks added per day
+
+Multi user to do app 
